@@ -1,6 +1,6 @@
 [
   {
-    "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
+    "name": "Sandun Plugin",
+    "entry": "./plugins/sandun-plugin/plugin.js"
   }
 ]
